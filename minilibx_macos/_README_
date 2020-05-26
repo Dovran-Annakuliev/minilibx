@@ -23,6 +23,7 @@ Cette version utilise le systeme de fenetrage Cocoa de MacOSX ( AppKit ), et les
 graphiques OpenGL moderne.
 
 #
+jblack-b was here 2020-02-22
 
 License: la MinilibX macos est fournie sous license BSD: Copyright Olivier Crouzet - 2014-2015
          la MinilibX est fournie sous license BSD:  Copyright Olivier Crouzet - 1999-2015
