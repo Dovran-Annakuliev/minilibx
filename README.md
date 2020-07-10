@@ -1,1 +1,2 @@
 # minilibx
+Graphic library.
